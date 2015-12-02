@@ -8,10 +8,10 @@ To help organise the ideas better, we have the following catgories:
 
 * Back-office
   * [General back-office](ideas/backoffice-general.md)
-  * [Dashboards](ideas/dashboards.md)
-  * [Macro Parameters](ideas/macro-parameters.md)
-  * [Property Editors](ideas/property-editors.md) (aka Data Types for v6)
-  * [Trees](ideas/trees.md)
+  * [Dashboards](ideas/backoffice-dashboards.md)
+  * [Macro Parameters](ideas/backoffice-macro-parameters.md)
+  * [Property Editors](ideas/backoffice-property-editors.md) (aka Data Types for v6)
+  * [Trees](ideas/backoffice-trees.md)
 * [Web API](ideas/web-api.md)
 * [Misc](ideas/misc.md) (typically non-coding ideas)
 
