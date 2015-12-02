@@ -6,7 +6,6 @@ Open ideas for Umbraco community packages - **set your ideas free**!
 
 To help organise the ideas better, we have the following catgories:
 
-* [API](#)
 * Back-office
   * [General back-office](#)
   * [Document Type Editor](#)
@@ -14,7 +13,8 @@ To help organise the ideas better, we have the following catgories:
   * [Dashboards](#)
   * [Property Editors](#) (aka Data Types for v6)
   * [Macro Parameters](#)
-* [Random](#) (usually non-developer ideas)
+* [Web API](ideas/web-api.md)
+* [Misc](#) (typically non-coding ideas)
 
 If you would like to submit an idea or new category, [please read the contribution guidelines](CONTRIBUTING.md) and send a pull-request, or [open an issue](https://github.com/leekelleher/umbraco-package-ideas/issues).
 
