@@ -1,4 +1,5 @@
-# Dashboards
+# Umbraco back-office ideas
+## Dashboards
 
 * [ ] Uptime monitor - using [UptimeRobot API](https://github.com/cmaneu/UptimeRobot-.net-API-Client)
 * [x] ~~Maintenance Mode - dashboard control that takes your IP address and enables [a HttpModule to take your website "offline"](http://blog.dreamlabsolutions.com/post/2009/09/02/Take-an-ASPNET-Application-offline-with-HttpModules.aspx)~~
