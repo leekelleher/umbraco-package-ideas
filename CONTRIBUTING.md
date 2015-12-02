@@ -10,6 +10,7 @@ If you would like to suggest an idea for a package, please follow these guidelin
 
 * Find a category to add the idea to. If one doesn't exist, feel free to add a new one.
 * Keep idea descriptions concise, clear and simple.
+* Add a bullet-point and prefix your idea with a checkbox, ([GFM-syntax `[ ]`](https://help.github.com/articles/writing-on-github/#task-lists)).
 * Improvements to existing categories are also welcome.
 
 > If you are unfamiliar with forking a GitHub project, [please read GitHub's tutorial about Pull Requests](https://help.github.com/articles/fork-a-repo/).
