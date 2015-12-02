@@ -1,4 +1,4 @@
-# General back-office
+# Umbraco back-office ideas
 
 * [ ] Web console - using a [jQuery console](https://github.com/chrisdone/jquery-console) emulator with [Roslyn](https://github.com/fekberg/Roslyn-Hosted-Execution). Similar idea to [NetBash](https://github.com/lukencode/NetBash), but Umbraco specific. (This concept could overlap with @joeriks's [UmbracoFuncHost](https://github.com/joeriks/UmbracoFuncHost) prototype?)
 * [ ] Pushover Notifications - inspired by [a WordPress plugin](http://wordpress.org/extend/plugins/pushover-notifications/) using [Pushover](https://pushover.net/) API.
