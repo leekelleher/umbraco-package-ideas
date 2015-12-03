@@ -4,7 +4,7 @@ Open ideas for Umbraco community packages - **set your ideas free**!
 
 ### Areas of interest
 
-To help organise the ideas better, we have the following catgories:
+To help organise the ideas better, we have the following categories:
 
 * Back-office
   * [General back-office](ideas/backoffice-general.md)
