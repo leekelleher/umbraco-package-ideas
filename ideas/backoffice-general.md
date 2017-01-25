@@ -12,3 +12,4 @@
 * [ ] Achievements/gamification of the back-office - get badges when tasks are unlocked; e.g. "Congrats, you have climbed 'Rollback Mountain'"
 * [ ] [Crossfilter](http://square.github.io/crossfilter/) - data visualisations; e.g. what times of day is content entered?
 * [ ] Using [wwwsqldesigner](https://code.google.com/p/wwwsqldesigner/) as a Document Type Visualiser.
+* [ ] Explore using [At.js](https://github.com/ichord/At.js) in various places in the back-office. e.g. In RTE to insert macros, link to pages. In template-editor to insert fields, or autocomplete syntax?
