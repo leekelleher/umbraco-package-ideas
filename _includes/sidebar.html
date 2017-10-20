@@ -1,0 +1,8 @@
+<nav class="menu" aria-labelledby="menu-heading">
+	<span class="menu-heading" id="menu-heading">Categories</span>
+	{% for category in site.categories %}
+		<a class="menu-item{% if page.url contains category.tag %} selected" aria-current="page{% endif %}" href="{{ category.url | replace:'index.html','' }}">
+			{% octicon {{ category.icon }} %} {{ category.title }}
+		</a>
+	{% endfor %}
+</nav>

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article>
+	<div class="markdown-body">
+		<h1>{{ page.title }}</h1>
+		<p class="alt-lead text-gray">{{ page.excerpt }}</p>
+		{{ content }}
+	</div>
+	<p>
+		<span title="Status: open" class="State State--green">{% octicon git-pull-request %} Open</span>
+		<span title="Status: closed" class="State State--red">{% octicon git-pull-request %} Closed</span>
+		<span title="Status: merged" class="State State--purple">{% octicon git-merge %} Merged</span>
+	</p>
+</article>
