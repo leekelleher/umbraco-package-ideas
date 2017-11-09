@@ -1,7 +1,7 @@
 # Site settings
 title: Umbraco Package Ideas
 description: Open ideas for Umbraco community packages
-baseurl: ""
+baseurl: "/umbraco-package-ideas/"
 url: ""
 exclude: ["CONTRIBUTING.md", "LICENSE.md", "README.md", "TODO.md", "Gemfile.lock", "Gemfile"]
 
