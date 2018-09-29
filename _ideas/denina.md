@@ -1,4 +1,4 @@
-﻿---
+---
 layout:   idea
 title:    Denina
 excerpt:  "Denina for Umbraco"
