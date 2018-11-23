@@ -2,18 +2,9 @@
 
 Open ideas for Umbraco community packages - **set your ideas free**!
 
-### Areas of interest
+Take a look at the website: <https://leekelleher.github.io/umbraco-package-ideas/>
 
-To help organise the ideas better, we have the following categories:
-
-* Back-office
-  * [General back-office](ideas/backoffice-general.md)
-  * [Dashboards](ideas/backoffice-dashboards.md)
-  * [Macro Parameters](ideas/backoffice-macro-parameters.md)
-  * [Property Editors](ideas/backoffice-property-editors.md) (aka Data Types for v6)
-  * [Trees](ideas/backoffice-trees.md)
-* [Web API](ideas/web-api.md)
-* [Misc](ideas/misc.md) (typically non-coding ideas)
+### Submit an idea?
 
 If you would like to submit an idea or new category, [please read the contribution guidelines](CONTRIBUTING.md) and send a pull-request, or [open an issue](https://github.com/leekelleher/umbraco-package-ideas/issues).
 

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<article>
+	<div class="markdown-body">
+		<h1>{{ page.title }} ideas</h1>
+		
+		{% unless page.content == '' %}
+			<p>{{ page.content }}</p>
+		{% endunless %}
+		
+		{% assign ideas = site.ideas | where:"category",page.category | sort: "title" %}
+		{% if ideas.size > 0 %}
+			<h2>Ideas</h2>
+			<ul>
+				{% for idea in ideas %}
+					<li><a href="{{ idea.url | relative_url }}">{{ idea.title }}</a></li>
+				{% endfor %}
+			</ul>
+		{% endif %}
+	</div>
+</article>
