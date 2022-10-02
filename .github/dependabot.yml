@@ -1,0 +1,13 @@
+# All configuration options can be referred from:
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+  - package-ecosystem: "bundler" # Bundler package manager used for Gemfile
+    directory: "/" # Find Gemfile on root location
+    schedule:
+      interval: "monthly" # Get montly updates
+    labels:
+      - "dependencies" # Have label 'dependencies' for PR raised by Dependabot
+    reviewers:
+       - "leekelleher" # Ask for review of the repo owner
