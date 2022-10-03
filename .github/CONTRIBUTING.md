@@ -1,3 +1,5 @@
+This project is governed by a [Code of Conduct](CODE_OF_CONDUCT.md).
+
 # Contribution Guidelines
 
 The ideas and suggestions on this list are open to the Umbraco community.

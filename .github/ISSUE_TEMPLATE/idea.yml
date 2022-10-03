@@ -1,0 +1,36 @@
+name: "Package Idea"
+description: "Share an idea for an Umbraco package."
+labels: "community/up-for-grabs"
+body:
+- type: textarea
+  id: "summary"
+  attributes:
+    label: "Idea summary"
+    description: "Write a summary of the package idea."
+    description: "Please do add as much detail as you can. Feel free to add mock screengrabs, videos, etc. You can format any code snippets using the `<>` button"
+    placeholder: >
+      Try to explain as much as possible.
+      
+      Remember the old adage, a picture is worth a thousand words.
+  validations:
+    required: true
+- type: checkboxes
+  id: categories
+  attributes:
+    label: Which categories would the idea fit?
+    description: "Select any that are applicable."
+    options:
+      - label: "Back-office"
+      - label: "Developer Tools"
+      - label: "Front-end"
+      - label: "Starter Kits"
+      - label: "Misc"
+- type: checkboxes
+  id: terms
+  attributes:
+    label: Code of Conduct
+    description: By submitting this issue, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md)
+    options:
+      - label: "I agree to follow this project's Code of Conduct."
+      required: true
+
